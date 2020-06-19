@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+	font-family: Helvetica;
+}
+
+#minhafoto {
+	height: 80px;
+	width: 80px;
+}
+
+#logo {
+	height: 140px;
+	width: 140px;
+}
